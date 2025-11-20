@@ -1,8 +1,11 @@
 # Ollama Projects
 ![GitHub License](https://img.shields.io/github/license/NarimanN2/ollama-playground?style=for-the-badge&link=LICENSE)
-![Gemini](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s)![Ollama](https://ollama.com/public/og.png)
-![Langgraph](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png)![Streamlit](https://images.seeklogo.com/logo-png/44/1/streamlit-logo-png_seeklogo-441815.png)
-
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" alt="Gemini" height="48" style="margin-right:12px;">
+  <img src="https://ollama.com/public/og.png" alt="Ollama" height="48" style="margin-right:12px;">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="Langgraph" height="48" style="margin-right:12px;">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" height="48">
+</p>
 This repository is a fork form [ollama-playground](https://github.com/NarimanN2/ollama-playground#) contains the code for the projects I built using Ollama's open-source models for the [YouTube channel](https://www.youtube.com/@NarimanCodes).
 
 # Projects
@@ -27,5 +30,6 @@ This repository is a fork form [ollama-playground](https://github.com/NarimanN2/
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+
 
 
