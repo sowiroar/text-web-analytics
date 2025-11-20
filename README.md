@@ -1,7 +1,9 @@
 # Ollama Projects
 ![GitHub License](https://img.shields.io/github/license/NarimanN2/ollama-playground?style=for-the-badge&link=LICENSE)
+![Gemini](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s)![Ollama](https://ollama.com/public/og.png)
+![Langgraph](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png)![Streamlit](https://images.seeklogo.com/logo-png/44/1/streamlit-logo-png_seeklogo-441815.png)
 
-This repository is a fork form ![ollama-playground](https://github.com/NarimanN2/ollama-playground#) contains the code for the projects I built using Ollama's open-source models for my [YouTube channel](https://www.youtube.com/@NarimanCodes). Make sure to check out the videos to see how I built them, and also subscribe to the channel for more content like this.
+This repository is a fork form [ollama-playground](https://github.com/NarimanN2/ollama-playground#) contains the code for the projects I built using Ollama's open-source models for the [YouTube channel](https://www.youtube.com/@NarimanCodes).
 
 # Projects
 - [Chat with PDF](/chat-with-pdf/README.md)
@@ -25,4 +27,5 @@ This repository is a fork form ![ollama-playground](https://github.com/NarimanN2
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+
 
