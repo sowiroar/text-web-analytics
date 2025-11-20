@@ -9,8 +9,6 @@ Agentes para diversas aplicaciones usando ollama y gemini, es un fork de ollama-
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" height="48">
 </p>
 
-Descripción corta del proyecto y cómo usarlo...
-
 # Projects
 - [Chat with PDF](/chat-with-pdf/README.md)
 - [Chat with PDF Using Hybrid RAG](/hybrid-retrieval-rag/README.md)
@@ -33,5 +31,7 @@ Descripción corta del proyecto y cómo usarlo...
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+
+
 
 
