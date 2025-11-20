@@ -1,7 +1,7 @@
 # Ollama Projects
 ![GitHub License](https://img.shields.io/github/license/NarimanN2/ollama-playground?style=for-the-badge&link=LICENSE)
 
-This repository contains the code for the projects I built using Ollama's open-source models for my [YouTube channel](https://www.youtube.com/@NarimanCodes). Make sure to check out the videos to see how I built them, and also subscribe to the channel for more content like this.
+This repository is a fork form ![ollama-playground](https://github.com/NarimanN2/ollama-playground#) contains the code for the projects I built using Ollama's open-source models for my [YouTube channel](https://www.youtube.com/@NarimanCodes). Make sure to check out the videos to see how I built them, and also subscribe to the channel for more content like this.
 
 # Projects
 - [Chat with PDF](/chat-with-pdf/README.md)
@@ -25,3 +25,4 @@ This repository contains the code for the projects I built using Ollama's open-s
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+
